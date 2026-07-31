@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+
+# environment variables
+.env
+
+# cache
+.cache/
+.vite/
+.next/
+
+# logs
+npm-debug.log*
